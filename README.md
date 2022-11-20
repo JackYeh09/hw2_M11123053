@@ -1,4 +1,3 @@
-# README.txt
 Requirements:
 
 Python 3.9.12<br>
